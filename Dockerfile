@@ -8,11 +8,7 @@ USER root
 RUN apt-get update
 RUN apt-get install -y xvfb
 
-# Set display variable
-RUN export DISPLAY=:99.0
-
-# Start xvfb
-RUN sh -e /etc/init.d/xvfb start
-RUN sleep 2
+RUN Xvfb :1 -screen 0 1600x1200x16 &
+export DISPLAY=:1.0
  
 RUN pip install -r requirements.txt
