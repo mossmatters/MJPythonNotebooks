@@ -5,6 +5,8 @@ MAINTAINER Matt Johnson <mossmatters@gmail.com>
 
 USER root
 
+RUN apt-get install xvfb
+
 # Set display variable
 RUN export DISPLAY=:99.0
 
