@@ -5,6 +5,7 @@ MAINTAINER Matt Johnson <mossmatters@gmail.com>
 
 USER root
 
+RUN apt-get update
 RUN apt-get install -y xvfb
 
 # Set display variable
