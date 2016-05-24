@@ -5,7 +5,7 @@ MAINTAINER Matt Johnson <mossmatters@gmail.com>
 
 USER root
 
-RUN apt-get install xvfb
+RUN apt-get install xenial
 
 # Set display variable
 RUN export DISPLAY=:99.0
