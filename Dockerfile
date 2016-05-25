@@ -13,4 +13,4 @@ RUN export DISPLAY=:1.0
 
 USER main
  
-RUN pip install -r requirements.txt
+RUN pip install ete3
