@@ -1,0 +1,98 @@
+.input_prompt {
+    color: #8476FF;
+}
+
+.navbar {
+    margin-bottom: 20px;
+    border-radius: 0;
+}
+
+.c {
+    color: #989898;
+}
+
+.k {
+    color: #338822;
+    font-weight: bold;
+}
+
+.kn {
+    color: #338822;
+    font-weight: bold;
+}
+
+.mi {
+    color: #000000;
+}
+
+.o {
+    color: #000000;
+}
+
+.ow {
+    color: #BA22FF;
+    font-weight: bold;
+}
+
+.nb {
+    color: #338822;
+}
+
+.n {
+    color: #000000;
+}
+
+.s {
+    color: #cc2222;
+}
+
+.se {
+    color: #cc2222;
+    font-weight: bold;
+}
+
+.si {
+    color: #C06688;
+    font-weight: bold;
+}
+
+.nn {
+    color: #4D00FF;
+    font-weight: bold;
+}
+
+.output_area pre {
+    background-color: #FFFFFF;
+    padding-left: 5%;
+}
+
+.site-description {
+    margin: 10px auto;
+}
+
+#site-title {
+    margin-top: 10px;
+}
+
+.blog-header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.code_cell {
+    padding-left: 2%;
+}
+
+.cell {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+br {
+    line-height: 2;
+}
+
+.cell h1, h2, h3, h4 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
