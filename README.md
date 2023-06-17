@@ -1,10 +1,6 @@
 # PhyPartsPieCharts
 Visualizing gene tree conflict using Phyparts, and ETE3
 
-Push this:
+**Note**: A more streamlined version of the phyparts pie charts script can be found at:
 
-
-
-
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/mossmatters/PhyPartsPieCharts)
-
+www.github.com/mossmatters/phyloscripts
